@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MaterialsAndLightsXbox">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\MaterialsAndLightsXbox.sln">
+</Property><Property Name="Date" Value="Wednesday, 2 December 2009">
+</Property><Property Name="Time" Value="16:37 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="MaterialsAndLightsXbox.sln" Description="File successfully backed up as C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\Backup\MaterialsAndLightsXbox.sln">
+</Event><Event ErrorLevel="0" Project="MaterialsAndLightsXbox" Source="MaterialsAndLights\MaterialsAndLightsXbox.csproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 3.0.">
+</Event><Event ErrorLevel="0" Project="MaterialsAndLightsXbox" Source="MaterialsAndLights\MaterialsAndLightsXbox.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 3.0.">
+</Event><Event ErrorLevel="0" Project="MaterialsAndLightsXbox" Source="MaterialsAndLights\MaterialsAndLightsXbox.csproj" Description="Project file successfully backed up as C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\Backup\MaterialsAndLights\MaterialsAndLightsXbox.csproj">
+</Event><Event ErrorLevel="0" Project="MaterialsAndLightsXbox" Source="MaterialsAndLights\Material.cs" Description="File successfully backed up as C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\Backup\MaterialsAndLights\Material.cs">
+</Event><Event ErrorLevel="0" Project="MaterialsAndLightsXbox" Source="MaterialsAndLights\MaterialsAndLights.cs" Description="File successfully backed up as C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\Backup\MaterialsAndLights\MaterialsAndLights.cs">
+</Event><Event ErrorLevel="0" Project="MaterialsAndLightsXbox" Source="MaterialsAndLights\PointLight.cs" Description="File successfully backed up as C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\Backup\MaterialsAndLights\PointLight.cs">
+</Event><Event ErrorLevel="0" Project="MaterialsAndLightsXbox" Source="MaterialsAndLights\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\Backup\MaterialsAndLights\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="MaterialsAndLightsXbox" Source="MaterialsAndLights\SampleCamera.cs" Description="File successfully backed up as C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\Backup\MaterialsAndLights\SampleCamera.cs">
+</Event><Event ErrorLevel="0" Project="MaterialsAndLightsXbox" Source="MaterialsAndLights\Content\Effects\Includes.inc" Description="File successfully backed up as C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\Backup\MaterialsAndLights\Content\Effects\Includes.inc">
+</Event><Event ErrorLevel="0" Project="MaterialsAndLightsXbox" Source="MaterialsAndLights\MaterialsAndLights.png" Description="File successfully backed up as C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\Backup\MaterialsAndLights\MaterialsAndLights.png">
+</Event><Event ErrorLevel="0" Project="MaterialsAndLightsXbox" Source="MaterialsAndLights\Game.ico" Description="File successfully backed up as C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\Backup\MaterialsAndLights\Game.ico">
+</Event><Event ErrorLevel="0" Project="MaterialsAndLightsXbox" Source="MaterialsAndLights\MaterialsAndLightsXbox.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MaterialsAndLightsXbox" Source="MaterialsAndLights\MaterialsAndLightsXbox.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MaterialsAndLightsXbox.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MaterialsAndLightsXbox.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MaterialsAndLightsXbox" Source="MaterialsAndLights\MaterialsAndLightsXbox.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="MaterialsAndLightsXbox" Source="MaterialsAndLights\MaterialsAndLightsXbox.csproj" Description="Upgraded XNA Framework references to XNA Framework 3.0.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Includes.inc" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="MaterialShader20.fx" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="MaterialShader30.fx" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="PointLightMesh.fx" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Cone.fbx" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Cube.fbx" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Cylinder.fbx" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="SphereHighPoly.fbx" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="SphereLowPoly.fbx" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Grid.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Hexes.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="HexesSpecular.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Marble.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Scratches.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Wood.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content" Source="DebugText.spritefont" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event></UpgradeLog>

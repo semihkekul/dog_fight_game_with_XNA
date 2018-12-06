@@ -1,0 +1,15 @@
+Content\Meshes\Cube.xnb
+Content\Meshes\Cylinder.xnb
+Content\Meshes\Cone.xnb
+Content\Meshes\SphereHighPoly.xnb
+Content\Meshes\SphereLowPoly.xnb
+Content\DebugText.xnb
+Content\Effects\MaterialShader30.xnb
+Content\Effects\MaterialShader20.xnb
+Content\Effects\PointLightMesh.xnb
+Content\Textures\Grid.xnb
+Content\Textures\Hexes.xnb
+Content\Textures\HexesSpecular.xnb
+Content\Textures\Marble.xnb
+Content\Textures\Scratches.xnb
+Content\Textures\Wood.xnb

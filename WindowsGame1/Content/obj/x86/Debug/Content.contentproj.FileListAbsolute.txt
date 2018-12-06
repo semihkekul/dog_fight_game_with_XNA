@@ -1,0 +1,4 @@
+C:\Users\smh\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\smh\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\Content\obj\x86\Debug\audio\MyGameAudio.xml
+C:\Documents and Settings\Administrator\Desktop\ai projesi\WindowsGame1\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\ai projesi\WindowsGame1\Content\obj\x86\Debug\audio\MyGameAudio.xml

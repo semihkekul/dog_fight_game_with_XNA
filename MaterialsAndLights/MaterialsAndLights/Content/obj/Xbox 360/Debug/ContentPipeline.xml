@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Meshes\Cube.fbx</Source>
+      <Name>Meshes\Cube</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\MaterialsAndLights\bin\Xbox 360\Debug\Content\Meshes\Cube.xnb</Output>
+      <Time>2007-11-26T12:33:22+02:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\Meshes\Cube_0.xml</Key>
+        <Value>2009-12-02T16:37:51.5999704+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Meshes\Cylinder.fbx</Source>
+      <Name>Meshes\Cylinder</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\MaterialsAndLights\bin\Xbox 360\Debug\Content\Meshes\Cylinder.xnb</Output>
+      <Time>2007-11-26T12:33:22+02:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\Meshes\Cylinder_0.xml</Key>
+        <Value>2009-12-02T16:37:52.5056404+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Meshes\Cone.fbx</Source>
+      <Name>Meshes\Cone</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\MaterialsAndLights\bin\Xbox 360\Debug\Content\Meshes\Cone.xnb</Output>
+      <Time>2007-11-26T12:33:22+02:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\Meshes\Cone_0.xml</Key>
+        <Value>2009-12-02T16:37:52.8491704+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Meshes\SphereHighPoly.fbx</Source>
+      <Name>Meshes\SphereHighPoly</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\MaterialsAndLights\bin\Xbox 360\Debug\Content\Meshes\SphereHighPoly.xnb</Output>
+      <Time>2007-11-26T12:33:22+02:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\Meshes\SphereHighPoly_0.xml</Key>
+        <Value>2009-12-02T16:37:53.6455354+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Meshes\SphereLowPoly.fbx</Source>
+      <Name>Meshes\SphereLowPoly</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\MaterialsAndLights\bin\Xbox 360\Debug\Content\Meshes\SphereLowPoly.xnb</Output>
+      <Time>2007-11-26T12:33:22+02:00</Time>
+      <Dependency>
+        <Key>obj\Xbox 360\Debug\Meshes\SphereLowPoly_0.xml</Key>
+        <Value>2009-12-02T16:37:54.1608304+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>DebugText.spritefont</Source>
+      <Name>DebugText</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\MaterialsAndLights\bin\Xbox 360\Debug\Content\DebugText.xnb</Output>
+      <Time>2007-11-26T12:33:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Effects\MaterialShader30.fx</Source>
+      <Name>Effects\MaterialShader30</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\MaterialsAndLights\bin\Xbox 360\Debug\Content\Effects\MaterialShader30.xnb</Output>
+      <Time>2007-11-26T12:33:22+02:00</Time>
+      <Dependency>
+        <Key>Effects\Includes.inc</Key>
+        <Value>2007-11-26T12:33:22+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Effects\MaterialShader20.fx</Source>
+      <Name>Effects\MaterialShader20</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\MaterialsAndLights\bin\Xbox 360\Debug\Content\Effects\MaterialShader20.xnb</Output>
+      <Time>2007-11-26T12:33:22+02:00</Time>
+      <Dependency>
+        <Key>Effects\Includes.inc</Key>
+        <Value>2007-11-26T12:33:22+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Effects\PointLightMesh.fx</Source>
+      <Name>Effects\PointLightMesh</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\MaterialsAndLights\bin\Xbox 360\Debug\Content\Effects\PointLightMesh.xnb</Output>
+      <Time>2007-11-26T12:33:22+02:00</Time>
+      <Dependency>
+        <Key>Effects\Includes.inc</Key>
+        <Value>2007-11-26T12:33:22+02:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Textures\Grid.png</Source>
+      <Name>Textures\Grid</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\MaterialsAndLights\bin\Xbox 360\Debug\Content\Textures\Grid.xnb</Output>
+      <Time>2007-11-26T12:33:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Hexes.png</Source>
+      <Name>Textures\Hexes</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\MaterialsAndLights\bin\Xbox 360\Debug\Content\Textures\Hexes.xnb</Output>
+      <Time>2007-11-26T12:33:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\HexesSpecular.png</Source>
+      <Name>Textures\HexesSpecular</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\MaterialsAndLights\bin\Xbox 360\Debug\Content\Textures\HexesSpecular.xnb</Output>
+      <Time>2007-11-26T12:33:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Marble.png</Source>
+      <Name>Textures\Marble</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\MaterialsAndLights\bin\Xbox 360\Debug\Content\Textures\Marble.xnb</Output>
+      <Time>2007-11-26T12:33:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Scratches.png</Source>
+      <Name>Textures\Scratches</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\MaterialsAndLights\bin\Xbox 360\Debug\Content\Textures\Scratches.xnb</Output>
+      <Time>2007-11-26T12:33:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Wood.png</Source>
+      <Name>Textures\Wood</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="GenerateMipmaps">True</Data>
+        <Data Key="ColorKeyEnabled">False</Data>
+        <Data Key="TextureFormat">NoChange</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\MaterialsAndLights\bin\Xbox 360\Debug\Content\Textures\Wood.xnb</Output>
+      <Time>2007-11-26T12:33:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Meshes\Cube.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\Meshes\Cube_0.xml</Output>
+      <Time>2007-11-26T12:33:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Meshes\Cylinder.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\Meshes\Cylinder_0.xml</Output>
+      <Time>2007-11-26T12:33:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Meshes\Cone.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\Meshes\Cone_0.xml</Output>
+      <Time>2007-11-26T12:33:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Meshes\SphereHighPoly.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\Meshes\SphereHighPoly_0.xml</Output>
+      <Time>2007-11-26T12:33:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Meshes\SphereLowPoly.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\Xbox 360\Debug\Meshes\SphereLowPoly_0.xml</Output>
+      <Time>2007-11-26T12:33:22+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\MaterialsAndLights\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\MaterialsAndLights\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\MaterialsAndLights\Content\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\skekul\Desktop\MaterialsAndLights\MaterialsAndLights\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-14T12:13:52+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-14T12:13:52+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-14T12:13:52+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-14T12:13:52+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-14T12:13:52+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-12-02T16:02:50.0282812+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

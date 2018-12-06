@@ -1,0 +1,42 @@
+C:\Users\smh\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\smh\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\smh\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\models\p1_wedge.xnb
+C:\Users\smh\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\textures\wedge_p1_diff_v1.xnb
+C:\Users\smh\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb
+C:\Users\smh\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\smh\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\smh\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\smh\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\smh\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\textures\B1_stars.xnb
+C:\Users\smh\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\fonts\Lucida Console.xnb
+C:\Users\smh\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\fonts\Kootenay.xnb
+C:\Users\smh\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\audio\MyGameAudio.xgs
+C:\Users\smh\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\audio\Wave Bank.xwb
+C:\Users\smh\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\audio\Sound Bank.xsb
+C:\Users\smh\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\models\asteroid1.xnb
+C:\Users\smh\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\models\pea_proj.xnb
+C:\Users\smh\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\textures\asteroid1.xnb
+C:\Users\smh\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\textures\pea_proj.xnb
+C:\Users\smh\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\textures\asteroid1_0.xnb
+C:\Users\smh\Documents\Visual Studio 2008\Projects\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\textures\pea_proj_0.xnb
+C:\Documents and Settings\Administrator\Desktop\ai projesi\WindowsGame1\bin\x86\Debug\Content\models\p1_wedge.xnb
+C:\Documents and Settings\Administrator\Desktop\ai projesi\WindowsGame1\bin\x86\Debug\Content\textures\wedge_p1_diff_v1.xnb
+C:\Documents and Settings\Administrator\Desktop\ai projesi\WindowsGame1\bin\x86\Debug\Content\textures\B1_stars.xnb
+C:\Documents and Settings\Administrator\Desktop\ai projesi\WindowsGame1\bin\x86\Debug\Content\textures\asteroid1.xnb
+C:\Documents and Settings\Administrator\Desktop\ai projesi\WindowsGame1\bin\x86\Debug\Content\textures\pea_proj.xnb
+C:\Documents and Settings\Administrator\Desktop\ai projesi\WindowsGame1\bin\x86\Debug\Content\fonts\Lucida Console.xnb
+C:\Documents and Settings\Administrator\Desktop\ai projesi\WindowsGame1\bin\x86\Debug\Content\fonts\Kootenay.xnb
+C:\Documents and Settings\Administrator\Desktop\ai projesi\WindowsGame1\bin\x86\Debug\Content\models\asteroid1.xnb
+C:\Documents and Settings\Administrator\Desktop\ai projesi\WindowsGame1\bin\x86\Debug\Content\models\pea_proj.xnb
+C:\Documents and Settings\Administrator\Desktop\ai projesi\WindowsGame1\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb
+C:\Documents and Settings\Administrator\Desktop\ai projesi\WindowsGame1\bin\x86\Debug\Content\textures\asteroid1_0.xnb
+C:\Documents and Settings\Administrator\Desktop\ai projesi\WindowsGame1\bin\x86\Debug\Content\textures\pea_proj_0.xnb
+C:\Documents and Settings\Administrator\Desktop\ai projesi\WindowsGame1\bin\x86\Debug\Content\audio\MyGameAudio.xgs
+C:\Documents and Settings\Administrator\Desktop\ai projesi\WindowsGame1\bin\x86\Debug\Content\audio\Wave Bank.xwb
+C:\Documents and Settings\Administrator\Desktop\ai projesi\WindowsGame1\bin\x86\Debug\Content\audio\Sound Bank.xsb
+C:\Documents and Settings\Administrator\Desktop\ai projesi\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Documents and Settings\Administrator\Desktop\ai projesi\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Documents and Settings\Administrator\Desktop\ai projesi\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\ai projesi\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Administrator\Desktop\ai projesi\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Documents and Settings\Administrator\Desktop\ai projesi\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb

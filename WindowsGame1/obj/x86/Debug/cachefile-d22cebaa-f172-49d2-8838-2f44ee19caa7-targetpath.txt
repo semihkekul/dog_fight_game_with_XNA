@@ -1,0 +1,15 @@
+Content\models\p1_wedge.xnb
+Content\textures\wedge_p1_diff_v1.xnb
+Content\textures\B1_stars.xnb
+Content\textures\asteroid1.xnb
+Content\textures\pea_proj.xnb
+Content\fonts\Lucida Console.xnb
+Content\fonts\Kootenay.xnb
+Content\models\asteroid1.xnb
+Content\models\pea_proj.xnb
+Content\textures\wedge_p1_diff_v1_0.xnb
+Content\textures\asteroid1_0.xnb
+Content\textures\pea_proj_0.xnb
+Content\audio\MyGameAudio.xgs
+Content\audio\Wave Bank.xwb
+Content\audio\Sound Bank.xsb
